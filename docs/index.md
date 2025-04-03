@@ -11,7 +11,7 @@ comments: true
 
 你也可以观看我在 Bilibili 上发布的视频合集来快速学习这款工具包中的绝大多数实用功能。
 
-点击[这里](./history.md)查看文档的更新记录。
+点击[这里](./history.md)查看文档的近期更新记录。
 
 [:simple-bilibili: Bilibili](https://space.bilibili.com/600592/channel/collectiondetail?sid=2036983){ .md-button }
 
